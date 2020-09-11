@@ -1,4 +1,4 @@
-License Plate Recognition(LPR) GUI
+<h1>License Plate Recognition(LPR) GUI</h1>
 
--Install all the requirements
--Run main.py
+<p>1. Install all the requirements</p>
+<p>2. Run main.py</p>
