@@ -1,3 +1,1 @@
-pip install -r requirements.txt
-
-run >> main_gui.py
+<h1>license plate recognition gui</h1>
