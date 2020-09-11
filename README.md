@@ -5,8 +5,14 @@
   Below image demonstrate the GUI.</p>
   <img src="https://i.imgur.com/7v3eh3h.png">
   <br>
-  <p>Below image desmonstrate the result and some other functions of the GUI.</p>
+  <p>Below image desmonstrates the result and some other functions of the GUI.</p>
   <img src="https://i.imgur.com/MVsIZJj.png">
+  <br>
+  <p>Below image demonstrates a simple data visualiztion function.</p>
+  <img src="https://i.imgur.com/bZ0ss5T.png">
+  <br>
+  <p>Below image is a register GUI.</p>
+  <img src="https://i.imgur.com/BApzRU3.png">
 </div>
 <br>
 <div>
