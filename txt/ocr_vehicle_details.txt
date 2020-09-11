@@ -1,0 +1,11 @@
+Details:
+ID : 1231
+F_NO : qweq
+Department : f
+Vehicle type : jh
+Vehicle model : fjh
+Vehicle plate number : LRNF1
+Vehicle color : jf
+Area : VVIP
+======================================
+Authorized vehicle

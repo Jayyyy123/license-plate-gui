@@ -1,0 +1,5 @@
+app.setStyleSheet("""
+    QWidget {font-size: 30px}
+    QMenu {font-size: 15px}
+    QMenu QWidget {font-size: 15px}
+""")

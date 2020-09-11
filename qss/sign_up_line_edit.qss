@@ -1,0 +1,7 @@
+background-color:rgb(202, 255, 227);
+border: 1px solid gray;
+padding: 0 8px;
+selection-background-color: darkgray;
+font-size: 14px;
+focus {
+background-color:rgb(192, 192, 255)}
