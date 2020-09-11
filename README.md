@@ -1,1 +1,1 @@
-<h1>license plate recognition gui</h1>
+<h1>License plate recognition GUI</h1>
